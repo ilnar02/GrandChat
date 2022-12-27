@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GrandChat</string>
+    <string name="welcome_back">Grand Chat</string>
+    <string name="login_to_continue">Добро пожаловать в</string>
+    <string name="email">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="create_new_account">Зарегистрироваться</string>
+    <string name="sign_in">Войти</string>
+    <string name="add_image">Аватар</string>
+    <string name="name">Имя</string>
+    <string name="confirm_password">Повторите пароль</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="select_user">Выберите собеседника</string>
+    <string name="type_a_message">Сообщение</string>
+    <string name="online">В сети</string>
+    <string name="add_chat">Добавить чат</string>
+</resources>
